@@ -1,0 +1,20 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-11",
+            "path": "C:\\Program Files\\Java\\jdk-11.0.16.1"
+        }
+    ],
+    "antlr4.generation": {
+        "mode": "external",
+        "language": "Java",
+        "listeners": true,
+        "visitors": true
+    },
+    "antlr4.debug": {
+        "visualParseTreeHorizontal": true,
+        "visualParseTreeClustered": true
+    },
+    "java.dependency.packagePresentation": "hierarchical"
+}
