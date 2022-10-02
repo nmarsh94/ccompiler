@@ -28,8 +28,8 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
-            "mainClass": "Compiladores2021.App",
-            "projectName": "Compiladores2021"
+            "mainClass": "ccompiler.App",
+            "projectName": "ccompiler"
         }
     ]
 }
